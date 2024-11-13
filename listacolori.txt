@@ -1,6 +1,6 @@
-blu
+Blu
 viola
-nero
-verde
-rosso
-bianco
+Nero
+Verde
+Rosso
+Bianco
